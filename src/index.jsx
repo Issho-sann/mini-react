@@ -1,5 +1,7 @@
-import React from './mini-react';
-import ReactDOM from './mini-react-dom';
+// import React from './mini-react';
+import React from './mini/react'
+// import ReactDOM from './mini-react-dom';
+import ReactDOM from './mini/react-dom'
 import './index.css';
 // import App from './App';
 import * as serviceWorker from './serviceWorker';
